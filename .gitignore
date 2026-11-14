@@ -1,0 +1,28 @@
+# Python temporary files
+__pycache__/
+*.pyc
+
+# Old backup copies
+*.bak
+*.backup
+*.backup.*
+*.before-*
+
+# Windows metadata
+*:Zone.Identifier
+
+# Logs and secrets
+*.log
+.env
+.env.*
+*.pem
+*.key
+id_rsa
+id_ed25519
+
+# Virtual disks and generated backups
+*.img
+*.vhd
+*.vhdx
+*.tar
+*.tar.gz
